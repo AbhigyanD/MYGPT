@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+openai
+websockets
+python-dotenv  # ✅ Add this line
